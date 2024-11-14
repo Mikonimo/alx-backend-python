@@ -1,4 +1,4 @@
-#!/user/bin/env python
+#!/user/bin/env python3
 """Contains a async function"""
 from typing import List
 import asyncio
